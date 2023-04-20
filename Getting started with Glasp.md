@@ -1,18 +1,18 @@
 # A Beginners Introduction to Glasp: The Social Web Highlighter for you
 ## Table of Content
-- Introduction
-- What is Glasp?
-- Features of Glasp
-- Installing Glasp
-    - Creating a Glasp account
-    - Installing the Glasp browser extension
-- Using and exploring Glasp
-    -  Creating your first Glasp highlight
-    - Sharing your highlight
-    - Exploring your Glasp homepage
-    - Growing your community with Glasp
-- Why use Glasp?
-- Collective Learning and Networking at your reach with Glasp
+- [Introduction](#introduction)
+- [What is Glasp?](#what-is-glasp)
+- [Features of Glasp](#features-of-glasp)
+- [Installing Glasp](#installing-glasp)
+    - [Creating a Glasp account](#creating-a-glasp-account)
+    - [Installing the Glasp browser extension](#installing-the-glasp-extension)
+- [Using and exploring Glasp](#using-and-exploring-glasp)
+    -  [Creating your first Glasp highlight](#creating-your-first-glasp-highlight)
+    - [Sharing your highlight](#sharing-your-highlights)
+    - [Exploring your Glasp homepage](#exploring-your-glasp-homepage)
+    - [Growing your community with Glasp](#growing-your-community-with-glasp)
+- [Why use Glasp?](#why-use-glasp)
+- [Collective Learning and Networking at your reach with Glasp](#collective-learning-and-networking-at-your-reach-with-glasp)
 
 ## Introduction
 Most web users switch between web pages, finding bits and pieces of information and taking notes. However, the repetitive back-and-forth action involved can be inefficient. Glasp helps make this process proceed more smoothly and improves efficiency. It does this by enabling users to highlight, organize and save portions of text for later use. In addition, Glasp lets users access quotes from similar-minded individuals, which may improve their understanding.  
