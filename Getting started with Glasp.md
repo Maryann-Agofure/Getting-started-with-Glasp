@@ -88,7 +88,7 @@ This opens a tab to the right to add a note
 
 ![Short note on the highlighted text](Glasp%20images/Screenshot%202023-04-19%20at%2010.01.57.png)
 
-## Highlighting from a video
+### Highlighting from a video
 
 Glasp also lets you share highlights from videos on Youtube. Once you have the Glasp extension installed, you can create and share highlights from there too.
 
