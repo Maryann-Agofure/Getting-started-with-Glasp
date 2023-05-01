@@ -8,6 +8,7 @@
     - [Installing the Glasp browser extension](#installing-the-glasp-extension)
 - [Using and exploring Glasp](#using-and-exploring-glasp)
     -  [Creating your first Glasp highlight](#creating-your-first-glasp-highlight)
+    - [Creating a highlight from Video](#highlighting-from-a-video)
     - [Sharing your highlight](#sharing-your-highlights)
     - [Exploring your Glasp homepage](#exploring-your-glasp-homepage)
     - [Growing your community with Glasp](#growing-your-community-with-glasp)
@@ -69,6 +70,28 @@ After signing up to Glasp, you can start using Glasp by making your first Glasp 
 This opens a tab to the right to add a note
     
 ![Short note on the highlighted text](Glasp%20images/Screenshot%202023-04-19%20at%2010.01.57.png)
+
+## Highlighting from a video
+Glasp also lets you share highlights from videos on Youtube. Once you have the Glasp extension installed, you can create and share highlights from there too.
+
+1. Open [Youtube](https://www.youtube.com)
+2. Enter the name of the interested video. This tutorial uses the [Python free beginners course from FreeCodeCamp](https://www.youtube.com/watch?v=eWRfhZUzrAc)
+    - Your Glasp extension manager for Youtube shows on the right side of the screen.
+    ![Glasp extension manager on Youtube](Glasp%20images/Screenshot%202023-05-01%20at%2008.18.07.png)
+    - You can generate an AL summary of the course by clicking on the ChatGPT button.
+    ![Generate AI summary using Glasp](Glasp%20images/Screenshot%202023-05-01%20at%2008.22.14.png)
+
+3. Click on the toggle button. This displays the transcript from your current video
+    ![English transcript from youtube video](Glasp%20images/Screenshot%202023-05-01%20at%2008.24.04.png)
+
+4. Select some text to create your highlight
+    ![Glasp highlight from video](Glasp%20images/Screenshot%202023-05-01%20at%2008.24.33.png)
+
+5. Navigate to the highlight section on your Glasp homepage
+    - Your video highlight is now available on the video section
+   ![Glasp video highlight](Glasp%20images/Screenshot%202023-05-01%20at%2008.51.59.png) 
+    
+
 
 ### Sharing your Highlights
 There are multiple ways to share your glasp highlight. For example, you can share to social media sites like Facebook, Twitter, and LinkedIn or copy the link to share to other platforms.
