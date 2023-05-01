@@ -19,8 +19,8 @@
 
 ## Introduction
 
-Most web users switch between web pages, finding bits and pieces of information and taking notes. However, the repetitive back-and-forth action involved can be inefficient. [Glasp](https://glasp.co/about) helps make this process proceed more smoothly and improves efficiency. It does this by enabling users to highlight, organize and save portions of text for later use. In addition, Glasp lets users access quotes from similar-minded individuals, which may improve their understanding.  
-This article provides a quick starting guide for Glasp and shows you how to create a Glasp account, create and share your first Glasp highlight, and connect with other members of the Glasp community.
+Most web users switch between web pages, finding bits and pieces of information and taking notes. However, the repetitive back-and-forth action involved can be inefficient. [Glasp](https://glasp.co/about) helps make this process proceed more smoothly and improves efficiency. It does this by enabling users to highlight, organize and save portions of text for later use. In addition, it lets users access quotes from similar-minded individuals, which may improve their understanding.  
+This article provides a quick starting guide for Glasp and shows you how to create an account, create and share your first highlight, and connect with other members of the Glasp community.
 
 ## What is Glasp?
 
@@ -31,7 +31,7 @@ Glasp aims to improve individual and collective knowledge by removing the privac
 Glasp aims to fulfill its objectives through these three core features:
 
 - **Highlight**: Glasp lets users capture online content through its numerous colored highlighting options. Users scrolling through web content can grab important texts or quotes for further perusal instead of revisiting the same page several times.
-- **Save and share**: Glasp users can save and share these highlighted content on their Glasp homepage, making them accessible to other Glasp users with similar topics.
+- **Save and share**: Glasp users can save and share these highlighted content on their homepage, making them accessible to other users with similar topics.
 - **Discover and connect with similar-minded individuals and content**: Glasp promotes community-building via its highlighted content sharing. Individuals with similar highlighted content can discover themselves, grow their understanding of a particular subject area, and build new connections.
 
 ## Installing Glasp
@@ -40,9 +40,9 @@ Glasp is a browser extension available for installation on Google Chrome, Micros
 
 ### Creating a Glasp account
 
-Before installing the Glasp extension, you must sign up for a Glasp account.
+Before installing the Glasp extension, you must sign up for an account.
 
-1. Navigate to **[Glasp.co](https://glasp.co/)** on your browser. The Glasp home page looks like this.
+1. Navigate to **[Glasp.co](https://glasp.co/)** on your browser. The home page looks like this.
 
 ![Glasp home page](Glasp%20images/Screenshot%202023-04-13%20at%2010.20.44.png)
 
@@ -52,13 +52,13 @@ Before installing the Glasp extension, you must sign up for a Glasp account.
 
 ![Glasp sign up button](Glasp%20images/Screenshot%202023-04-13%20at%2010.20.55.png)
 
-3. Complete the signup process via your Google account
+3. Complete the signup process via your Google account.
 
   ![Glasp Sign up page via your Google account](Glasp%20images/Screenshot%202023-04-13%20at%2011.23.18.png)
 
 ### Installing the Glasp extension
 
-Let's install the Glasp browser extension on Chrome
+Let's install the Glasp browser extension on Chrome.
 
 1. Navigate to [Glasp  Chrome extension](https://chrome.google.com/webstore/detail/glasp-social-web-highligh/blillmbchncajnhkjfdnincfndboieik/related)
 2. Click **Add to Chrome**. This step installs the browser extension.
@@ -71,48 +71,48 @@ You can pin Glasp to your extensions tab by clicking on the extension menu and p
 
 ## Using and Exploring Glasp
 
-After signing up to Glasp, you can start using Glasp by making your first Glasp highlight and sharing to connect with other users.
+After signing up to Glasp, you can start using it by making your first highlight and sharing to connect with other users.
 
 ### Creating your first Glasp Highlight
 
-1. Navigate to a web page. This tutorial uses an [API documentation learning page](https://idratherbewriting.com/learnapidoc/)
+1. Navigate to a web page. This tutorial uses an [API documentation learning page](https://idratherbewriting.com/learnapidoc/).
 2. Let's highlight the definition of a REST API. You create a highlight by selecting the text portion and choosing a color to use for the highlight. This screenshot example uses pink as the highlight color.
 
 ![First Glasp](Glasp%20images/Screenshot%202023-04-19%20at%2010.00.46.png)
 *Note*: You can also add notes about your highlight and share
 
-3. Click on the **pen icon** to add a note to your highlight
+3. Click on the **pen icon** to add a note to your highlight.
 
  ![Adding a note to your glasp highlight](Glasp%20images/Screenshot%202023-04-19%20at%2010.01.08.png)
-This opens a tab to the right to add a note
+This opens a tab to the right to add a note.
 
 ![Short note on the highlighted text](Glasp%20images/Screenshot%202023-04-19%20at%2010.01.57.png)
 
 ### Highlighting from a video
 
-Glasp also lets you share highlights from videos on Youtube. Once you have the Glasp extension installed, you can create and share highlights from there too.
+Glasp also lets you share highlights from videos on Youtube. Once you have the extension installed, you can create and share highlights from there too.
 
 1. Open [Youtube](https://www.youtube.com)
-2. Enter the name of the interested video. This tutorial uses the [Python free beginners course from FreeCodeCamp](https://www.youtube.com/watch?v=eWRfhZUzrAc)
+2. Enter the name of the interested video. This tutorial uses the [Python free beginners course from FreeCodeCamp](https://www.youtube.com/watch?v=eWRfhZUzrAc).
     - Your Glasp extension manager for Youtube shows on the right side of the screen.
     ![Glasp extension manager on Youtube](Glasp%20images/Screenshot%202023-05-01%20at%2008.18.07.png)
     - You can generate an AL summary of the course by clicking the **openai** button.
     ![Generate AI summary using Glasp](Glasp%20images/Screenshot%202023-05-01%20at%2008.22.14.png)
 
-3. Click on the toggle button. This displays the transcript from your current video
+3. Click on the toggle button. This displays the transcript from your current video.
     ![English transcript from youtube video](Glasp%20images/Screenshot%202023-05-01%20at%2008.24.04.png)
 
 4. Select some text to create your highlight
     ![Glasp highlight from video](Glasp%20images/Screenshot%202023-05-01%20at%2008.24.33.png)
 
-5. Navigate to the highlight section on your Glasp homepage
-    - Your video highlight is now available in the video section
+5. Navigate to the highlight section on your Glasp homepage.
+    - Your video highlight is now available in the video section.
    ![Glasp video highlight](Glasp%20images/Screenshot%202023-05-01%20at%2008.51.59.png)
 
 ### Sharing your Highlights
 
-There are multiple ways to share your glasp highlight. For example, you can share to social media sites like Facebook, Twitter, and LinkedIn or copy the link to share to other platforms.
-Let's share our most recent Glasp highlight.
+There are multiple ways to share your highlight. For example, you can share to social media sites like Facebook, Twitter, and LinkedIn or copy the link to share to other platforms.
+Let's share our most recent highlight.
 
 1. Click on the **share** icon
 
@@ -126,11 +126,11 @@ Let's share our most recent Glasp highlight.
 
 ![Share highlight on Twitter](Glasp%20images/Screenshot%202023-04-19%20at%2010.16.11.png)
 
-4. To share on LinkedIn, click on the LinkedIn icon where it makes a LinkedIn post and prompts you to share as a post or send as a message
+4. To share on LinkedIn, click on the LinkedIn icon where it makes a LinkedIn post and prompts you to share as a post or send as a message.
 
 ![Share Glasp highlight on LinkedIn](Glasp%20images/Screenshot%202023-04-19%20at%2010.19.15.png)
 
-### Exploring your Glasp homepage
+### Exploring your homepage
 
 Let's further explore Glasp and its features.
 
@@ -138,10 +138,10 @@ Let's further explore Glasp and its features.
 
 ![Glasp homepage](Glasp%20images/Screenshot%202023-04-19%20at%2011.12.28.png)
 
-    Your Glasp homepage contains the following sections:
+    Your homepage contains the following sections:
         a. The left section contains your selected and recommended topics and some follow suggestions to grow your community.
         b. The mid-section lets you navigate between popular topics and highlights from those you follow.
-        c. The right section shows individuals who Glasped the selected highlight.
+        c. The right section shows individuals who also highlighted from the article.
 
 2. You can also use the top navigation bar to see your highlights and explore highlights from other topics.
 
@@ -151,7 +151,7 @@ Let's further explore Glasp and its features.
 
 ![Your Glasp highlights](Glasp%20images/Screenshot%202023-04-19%20at%2011.13.17.png)
 
-4. Click on **Explore** to explore highlights from other topics
+4. Click on **Explore** to explore highlights from other topics.
 
 ![Explore Glasp community](Glasp%20images/Screenshot%202023-04-19%20at%2011.13.38.png)
 
@@ -160,42 +160,42 @@ Let's further explore Glasp and its features.
 ![Invite others to use Glasp](Glasp%20images/Screenshot%202023-04-19%20at%2011.14.21.png)
     You can copy and share the invite code to social media or share directly by clicking on the social media icons to share to the platform.
 
-6. You can curate your Glasp homepage by clicking on the ellipsis icon(...) to help select from the broad range of topics offered by Glasp
+6. You can curate your homepage by clicking on the ellipsis icon(...) to help select from the broad range of topics offered by Glasp.
 
 ![Select topics](Glasp%20images/Screenshot%202023-04-19%20at%2013.43.15.png)
 
-You can select up to ten different topics of interest
+You can select up to ten different topics of interest.
 ![Select interested topics](Glasp%20images/Screenshot%202023-04-19%20at%2013.43.00.png)
 
 ### Growing your community with Glasp
 
-Growing your learning community with Glasp is easy and achievable through the following ways:
+Growing your learning community is easy and achievable through the following ways:
 
-1. Click on the ellipsis icon beside the **Who to Follow** copy
+1. Click on the ellipsis icon beside the **Who to Follow** copy.
 
 ![Link to suggestions page](Glasp%20images/Screenshot%202023-04-19%20at%2013.14.49.png)
 
-This brings up a list of suggested Glaspers that have similar interests as you.
+This brings up a list of suggested users with similar interests as you.
 
 ![Alt text](Glasp%20images/Screenshot%202023-04-19%20at%2013.56.16.png)
 
-Now you can follow as many Glaspers as you want.
+Now you can follow as many users as you want.
 
-2. A second way to find more Glaspers is to find other Glaspers who liked highlights from your interested topics.
+2. A second way to connect is to find other users who liked highlights from your interested topics.
 
 ![Adding more users](Glasp%20images/Screenshot%202023-04-19%20at%2016.03.26.png)
 
-    a. This shows a Glasp highlight from one of your interested topics (product management)
-    b. This arrows shows us fellow Glaspers who highlighted from the article
-    c. Moving your cursor over a user displays a pop-up profile page that lets you follow the Glasp user. 
+    a. This shows a highlight from one of your interested topics (product management).
+    b. This arrows shows us fellow users who highlighted from the article.
+    c. Moving your cursor over a user displays a pop-up profile page that lets you follow the user. 
 
 ## Why use Glasp?
 
 - **Networking and community growth**: For professionals looking to network with other professionals and establish thought leadership on a subject or topic, sharing highlights and notes from their topics of interest helps them connect with similar topics, grow their learning about the subject matter, and connect with other like-minded individuals.
 - **Effective research and writing**: For writers who depend on intensive research and source credibility for their articles, Glasp improves their workflow. Using colored highlights, researchers and writers can highlight and group quotes or article sections for later use when writing their final article. Additionally, sharing these highlights on their Glasp homepage increases the article's credibility and authoritative value.
 - **Improved workflow**: Taking notes between learning and research usually involves jumping between multiple apps, which becomes tiring. Glasp improves the efficiency of this process by letting users highlight on the webpage, organize and share the web highlight, making it easily accessible and available for exports into tools like [Notion](https://medium.com/glasp/tutorial-how-to-export-web-articles-sentences-into-notion-907571bd5050). There's also the increased benefit of finding additional resources related to your highlight.
-- **Collective learning**: For individuals learning about a subject matter, sharing an article quote or highlight on their glasp homepage exposes them to similar highlights and quotes about the same subject, improving their knowledge and understanding of the topic.
+- **Collective learning**: For individuals learning about a subject matter, sharing an article quote or highlight on their Glasp homepage exposes them to similar highlights and quotes about the same subject, improving their knowledge and understanding of the topic.
 
 ## Collective Learning and Networking at your reach with Glasp
 
-Incorporating Glasp into your daily workflow can help you work better and faster and improve your learning process. Glasp makes note-taking more efficient by curating and organizing your highlights without having to navigate between multiple tabs. Additionally, your Glasp homepage contains web page highlights specially curated to your interests, enabling you to grow and add to your learning resources while boosting networking opportunities to grow your network. You can [start using Glasp](https://glasp.co/?invite_code=PrUZvBhAvuSHoXLpbUtRjyTyxXt1) by installing the extension to create and share your highlights and grow your community.
+Incorporating Glasp into your daily workflow can help you work better and faster and improve your learning process. It makes note-taking more efficient by curating and organizing your highlights without having to navigate between multiple tabs. Additionally, your homepage contains web page highlights specially curated to your interests, enabling you to grow and add to your learning resources while boosting networking opportunities to grow your network. You can [start using Glasp](https://glasp.co/?invite_code=PrUZvBhAvuSHoXLpbUtRjyTyxXt1) by installing the extension to create and share your highlights and grow your community.
