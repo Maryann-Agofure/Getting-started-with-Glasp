@@ -19,7 +19,7 @@
 
 ## Introduction
 
-Most web users switch between web pages, finding bits and pieces of information and taking notes. However, the repetitive back-and-forth action involved can be inefficient. Glasp helps make this process proceed more smoothly and improves efficiency. It does this by enabling users to highlight, organize and save portions of text for later use. In addition, Glasp lets users access quotes from similar-minded individuals, which may improve their understanding.  
+Most web users switch between web pages, finding bits and pieces of information and taking notes. However, the repetitive back-and-forth action involved can be inefficient. [Glasp](https://glasp.co/about) helps make this process proceed more smoothly and improves efficiency. It does this by enabling users to highlight, organize and save portions of text for later use. In addition, Glasp lets users access quotes from similar-minded individuals, which may improve their understanding.  
 This article provides a quick starting guide for Glasp and shows you how to create a Glasp account, create and share your first Glasp highlight, and connect with other members of the Glasp community.
 
 ## What is Glasp?
