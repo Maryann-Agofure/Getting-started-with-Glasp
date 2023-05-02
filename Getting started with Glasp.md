@@ -2,7 +2,6 @@
 
 ## Table of Content
 
-- [Introduction](#introduction)
 - [What is Glasp?](#what-is-glasp)
 - [Features of Glasp](#features-of-glasp)
 - [Installing Glasp](#installing-glasp)
@@ -17,14 +16,12 @@
 - [Why use Glasp?](#why-use-glasp)
 - [Collective Learning and Networking at your reach with Glasp](#collective-learning-and-networking-at-your-reach-with-glasp)
 
-## Introduction
-
 Most web users switch between web pages, finding bits and pieces of information and taking notes. However, the repetitive back-and-forth action involved can be inefficient. [Glasp](https://glasp.co/about) helps make this process proceed more smoothly and improves efficiency. It does this by enabling users to highlight, organize and save portions of text for later use. In addition, it lets users access quotes from similar-minded individuals, which may improve their understanding.  
 This article provides a quick starting guide for Glasp and shows you how to create an account, create and share your first highlight, and connect with other members of the Glasp community.
 
 ## What is Glasp?
 
-Glasp aims to improve individual and collective knowledge by removing the privacy induced by most note-taking applications. By highlighting and sharing content from web pages, individuals not only improve their workflow productivity but also find and build a community with like-minded individuals while improving their knowledge of a subject.
+[Glasp](https://glasp.co/about), an acronym for 'Greatest Legacy Accumulated as Shared Proof', aims to improve individual and collective knowledge by removing the privacy induced by most note-taking applications. By highlighting and sharing content from web pages, individuals not only improve their workflow productivity but also find and build a community with like-minded individuals while improving their knowledge of a subject.
 
 ## Features of Glasp
 
